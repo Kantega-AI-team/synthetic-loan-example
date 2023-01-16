@@ -1,0 +1,13 @@
+.venv
+.vscode
+.DS_Store
+dist
+notebooks/ipynb_checkpoints
+notebooks/.ipynb_checkpoints
+poetry.lock
+*.png
+
+# Pycache anywhere
+__pycache__
+fairlearn_demo/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+synthetic_data/.ipynb_checkpoints/Untitled-checkpoint.ipynb
